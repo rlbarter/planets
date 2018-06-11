@@ -1,4 +1,3 @@
-Let's start thinking about Venus here.
-Venus has rather unpleasant weather.
-Here's another line, it might generate a conflict.
+Let's NOT start thinking about Venus here.
+Venus has rather pleasant weather.
 But an umbrella might help.
